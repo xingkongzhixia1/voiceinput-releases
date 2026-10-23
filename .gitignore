@@ -1,0 +1,7 @@
+# 安装包不进 git，只作为 Release 资产上传
+dist/
+
+# 系统 / IDE 杂物
+.vs/
+Thumbs.db
+desktop.ini
