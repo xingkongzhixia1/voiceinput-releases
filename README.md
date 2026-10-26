@@ -2,7 +2,7 @@
 
 **按一下键说话，文字先落在自己的工作台里；改好、挑完同音词，再一键送进任何输入框。**
 
-> 闭源专有软件，可免费下载试用。版权归 **兴空之夏1**（GitHub: [@xingkongzhixia1](https://github.com/xingkongzhixia1)）所有，保留一切权利，详见 [LICENSE](LICENSE)。
+> 闭源专有软件，免费下载使用，可原样分享。版权归 **兴空之夏1**（GitHub: [@xingkongzhixia1](https://github.com/xingkongzhixia1)）所有，保留一切权利，详见 [LICENSE](LICENSE)。
 
 ## 这是什么
 
@@ -85,8 +85,11 @@
 本软件为闭源专有软件，不提供源代码。你可以免费下载、安装并个人使用，也可以**把安装包原样分享**给他人；但不得修改、拆包、反编译，不得用于商业用途，不得绕过授权限制。
 完整条款见 [LICENSE](LICENSE)；第三方组件与数据许可见 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
 
-## 反馈
+## 反馈与联系
 
-- 通过 [Issues](../../issues) 反馈
-- 请附：版本号、Windows 版本、复现步骤
+- **邮件**：**783637559@qq.com** —— 问题反馈、功能建议、使用咨询都可以发到这里
+- 也可以直接开 [Issues](../../issues) 反馈
+- 反馈请附：版本号、Windows 版本、复现步骤
 - 请勿上传识别文本、API Key 或任何个人数据
+
+> 安装已不需要密码，邮件不再用于发放安装密码。
